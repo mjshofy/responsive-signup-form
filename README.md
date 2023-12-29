@@ -5,9 +5,9 @@ Learn how to create a responsive signup form using HTML and CSS by watching this
 
 Learn how to create a website sign up form using HTML and CSS from scretch by watching this step by stap tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/187753)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/187753)
 
 Thanks,
-[codermj](https://www.youtube.com/@thecodermj/)
+[codermj](https://www.youtube.com/@the.codermj/)
 
 ![design](https://github.com/mjshofy/responsive-signup-form/assets/76812554/9a43913b-535b-47bc-bf8c-1076ce0fec47)
